@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/Sirio-Analizador-Sintactico/static/js/main.1b80a3b7.chunk.js",
+    "main.js.map": "/Sirio-Analizador-Sintactico/static/js/main.1b80a3b7.chunk.js.map",
+    "runtime-main.js": "/Sirio-Analizador-Sintactico/static/js/runtime-main.292f4506.js",
+    "runtime-main.js.map": "/Sirio-Analizador-Sintactico/static/js/runtime-main.292f4506.js.map",
+    "static/css/2.479fe0e7.chunk.css": "/Sirio-Analizador-Sintactico/static/css/2.479fe0e7.chunk.css",
+    "static/js/2.c080fe2f.chunk.js": "/Sirio-Analizador-Sintactico/static/js/2.c080fe2f.chunk.js",
+    "static/js/2.c080fe2f.chunk.js.map": "/Sirio-Analizador-Sintactico/static/js/2.c080fe2f.chunk.js.map",
+    "index.html": "/Sirio-Analizador-Sintactico/index.html",
+    "static/css/2.479fe0e7.chunk.css.map": "/Sirio-Analizador-Sintactico/static/css/2.479fe0e7.chunk.css.map",
+    "static/js/2.c080fe2f.chunk.js.LICENSE.txt": "/Sirio-Analizador-Sintactico/static/js/2.c080fe2f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.292f4506.js",
+    "static/css/2.479fe0e7.chunk.css",
+    "static/js/2.c080fe2f.chunk.js",
+    "static/js/main.1b80a3b7.chunk.js"
+  ]
+}
