@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/Sirio-Analizador-Sintactico/static/js/main.1b80a3b7.chunk.js",
-    "main.js.map": "/Sirio-Analizador-Sintactico/static/js/main.1b80a3b7.chunk.js.map",
+    "main.js": "/Sirio-Analizador-Sintactico/static/js/main.9485adf2.chunk.js",
+    "main.js.map": "/Sirio-Analizador-Sintactico/static/js/main.9485adf2.chunk.js.map",
     "runtime-main.js": "/Sirio-Analizador-Sintactico/static/js/runtime-main.292f4506.js",
     "runtime-main.js.map": "/Sirio-Analizador-Sintactico/static/js/runtime-main.292f4506.js.map",
     "static/css/2.479fe0e7.chunk.css": "/Sirio-Analizador-Sintactico/static/css/2.479fe0e7.chunk.css",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.292f4506.js",
     "static/css/2.479fe0e7.chunk.css",
     "static/js/2.c080fe2f.chunk.js",
-    "static/js/main.1b80a3b7.chunk.js"
+    "static/js/main.9485adf2.chunk.js"
   ]
 }
