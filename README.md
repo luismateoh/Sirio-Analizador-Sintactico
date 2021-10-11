@@ -1,4 +1,4 @@
-# Sirio · Analizador Léxico
+# Sirio · Analizador Léxico y Sintáctico
 
 Sirio pretende ser un analizador léxico y sintactico el cual mediante expresiones regulares y autómatas finitos lee alguna una entrada (código fuente de un programa)  y genera una lista ligada o array de tokens. Estos tokens se componen de la siguiente manera: un atributo que identifica el tipo del token y el lexema o valor del token. Para después validar la sintaxis mediante gramáticas.
 
@@ -18,7 +18,7 @@ Se tratara de explicar la forma en que se implementara y construirá el modulo d
 Para acceder a sirio siga:
 [https://luismateoh.github.io/Sirio-Analizador-Sintactico/](https://luismateoh.github.io/Sirio-Analizador-Sintactico/)
 
-![Imgur](https://i.imgur.com/phDHCNH.png)
+![Imagen1](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/71b84de0-e9cf-4985-8d8b-39b2bf3af8c8/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20211011%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211011T080227Z&X-Amz-Expires=86400&X-Amz-Signature=200cbb08a5b1a73d384e8995b108e20eca3a0d63381996616e2438d2cac3d5c5&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 
 Realizar los siguientes pasos para ejecutar Sirio.
 Recordar que antes de eso se debe tener instalado *[Node.js](https://nodejs.org/es/) (v14.17.0), con [Yarn](https://yarnpkg.com/) (v1.22.10).*
@@ -47,4 +47,4 @@ Correr el servidor de forma local.
 yarn start
 ```
 
-Si el puerto 3000 esta disponible la aplicación se puede abrir desde `http://localhost:3000/sirio`.
+Si el puerto 3000 esta disponible la aplicación se puede abrir desde `http://localhost:3000/Sirio-Analizador-Sintactico`.
