@@ -13,6 +13,7 @@ import {
 } from 'rsuite';
 import CardSin from "./CardSin";
 import syntaxAnalyzer from "../Analizador-de-sintaxis/structures/syntaxAnalyzer";
+import syntaxAnalyzer2 from "../Analizador-de-sintaxis/structures/syntaxAnalyzer2";
 
 
 const panelStyle = {
@@ -32,7 +33,7 @@ function FormSirio({onSelect, activeKey, ...props}) {
             let response=""
             setCardLex()
             tokens = automaton(textArea.trim())
-            response = syntaxAnalyzer(tokens)
+            response = syntaxAnalyzer2(tokens)
             setCardLex(
                 <CardLex
                     tokens={tokens}
