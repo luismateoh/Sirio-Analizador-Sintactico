@@ -1,4 +1,4 @@
-# Sirio · Analizador Léxico
+# Sirio · Analizador Léxico y Sintáctico
 
 Sirio pretende ser un analizador léxico y sintactico el cual mediante expresiones regulares y autómatas finitos lee alguna una entrada (código fuente de un programa)  y genera una lista ligada o array de tokens. Estos tokens se componen de la siguiente manera: un atributo que identifica el tipo del token y el lexema o valor del token. Para después validar la sintaxis mediante gramáticas.
 
@@ -47,4 +47,4 @@ Correr el servidor de forma local.
 yarn start
 ```
 
-Si el puerto 3000 esta disponible la aplicación se puede abrir desde `http://localhost:3000/sirio`.
+Si el puerto 3000 esta disponible la aplicación se puede abrir desde `http://localhost:3000/Sirio-Analizador-Sintactico`.
