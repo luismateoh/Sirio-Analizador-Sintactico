@@ -18,8 +18,6 @@ Se tratara de explicar la forma en que se implementara y construirá el modulo d
 Para acceder a sirio siga:
 [https://luismateoh.github.io/Sirio-Analizador-Sintactico/](https://luismateoh.github.io/Sirio-Analizador-Sintactico/)
 
-![Imgur](https://i.imgur.com/phDHCNH.png)
-
 Realizar los siguientes pasos para ejecutar Sirio.
 Recordar que antes de eso se debe tener instalado *[Node.js](https://nodejs.org/es/) (v14.17.0), con [Yarn](https://yarnpkg.com/) (v1.22.10).*
 
